@@ -1,0 +1,25 @@
+{
+    "movies": [
+        {
+            "title": "Inception",
+            "description": "A thief who enters the dreams of others to steal their secrets.",
+            "price": 10.00,
+            "image": "https://ih1.redbubble.net/image.1449965882.5782/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+            "showtimes": ["12:00 PM", "3:00 PM", "6:00 PM"]
+        },
+        {
+            "title": "Interstellar",
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "price": 12.00,
+            "image": "https://rukminim2.flixcart.com/image/850/1000/juk4gi80/poster/s/g/3/large-newposter8503-movie-interstellar-hd-wallpaper-background-original-imaf5ttsfnfgt2zh.jpeg?q=90&crop=false",
+            "showtimes": ["1:00 PM", "4:00 PM", "7:00 PM"]
+        },
+        {
+            "title": "The Dark Knight",
+            "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+            "price": 8.00,
+            "image": "https://i5.walmartimages.com/asr/f0598fb7-94c2-4274-9ea5-d24b02b09927.59eb99ddfa9dde7ab9110d9723488196.jpeg",
+            "showtimes": ["2:00 PM", "5:00 PM", "8:00 PM"]
+        }
+    ]
+}
